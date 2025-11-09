@@ -787,3 +787,11 @@ BigNumber BigNumber::operator- (const BASE& num){
 - Модульная архитектура, допускающая дальнейшие оптимизации
 
 Данная реализация служит прочным фундаментом для приложений, требующих работы с числами произвольной точности - от образовательных проектов до серьезных криптографических и научных вычислений.
+
+---
+
+### Контакты и ссылки
+
+- **GitHub**: [github.com/hendawi/BigNumber](https://github.com/Hendawi1/BigNumber/blob/main/BigNumber.cpp)
+- **Документация**: [BingNumber/README.md](https://github.com/Hendawi1/BigNumber/edit/main/README.md)
+- **Автор**: [@HENDAW1](https://t.me/HENDAW1)
